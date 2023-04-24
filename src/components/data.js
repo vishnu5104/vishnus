@@ -20,7 +20,7 @@ export const tabData = [
       "https://images.unsplash.com/photo-1509395062183-67c5ad6faff9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
     source: "https://metaverse-landing-page-vishnu5104.vercel.app",
     description:
-      "The website was built using Next.js and Frame Motion, which resulted in a visually appealing website with a great user experience. Through the development process, the creator gained valuable front-end skills and knowledge of best practices, allowing for the creation of an even better website experience.",
+      "The website was built using Next.js and Frame Motion, which resulted in a visually appealing website with a great user experience. Through the development process, I gained valuable front-end skills and knowledge of best practices, allowing for the creation of an even better website experience.",
   },
   {
     type: "Web3",
